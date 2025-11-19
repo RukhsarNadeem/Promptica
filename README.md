@@ -1,0 +1,2 @@
+# Promptica
+Image generator
